@@ -44,6 +44,7 @@ docs/
   ai-rules/
     README.md
     engineering.md
+    project-boundaries.md
     typescript.md
     api-contracts.md
     frontend.md
@@ -58,6 +59,7 @@ docs/
 ## 规则文件
 
 - `engineering.md`：包管理、脚本、TypeScript、ESLint、Prettier、CI。
+- `project-boundaries.md`：项目已有方案、不可擅自决定事项和安全底线。
 - `typescript.md`：类型、模块、异步和错误处理。
 - `api-contracts.md`：前后端共享 contract、Zod schema、请求封装、接口返回。
 - `frontend.md`：前端组件、状态、表单、数据请求。

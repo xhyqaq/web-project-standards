@@ -22,6 +22,7 @@
 ## 按需阅读
 
 - 工程化配置、脚本、依赖、CI：`docs/ai-rules/engineering.md`
+- 项目已有方案、权限安全边界、不能擅自决定的事项：`docs/ai-rules/project-boundaries.md`
 - TypeScript 类型、模块、错误处理：`docs/ai-rules/typescript.md`
 - 接口开发、联调、请求封装、字段变更：`docs/ai-rules/api-contracts.md`
 - 前端页面、组件、状态、数据请求：`docs/ai-rules/frontend.md`

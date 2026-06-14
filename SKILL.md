@@ -60,6 +60,7 @@ docs/
    ai-rules/
      README.md
      engineering.md
+     project-boundaries.md
      typescript.md
      api-contracts.md
      frontend.md
