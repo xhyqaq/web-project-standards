@@ -68,8 +68,8 @@ docs/
      backend.md
      database.md
      errors.md
-    logging.md
-    testing.md
+     logging.md
+     testing.md
 ```
 
 `AGENTS.md` should tell agents which detailed doc to read for each task type. Do not include all examples inline in `AGENTS.md`.
