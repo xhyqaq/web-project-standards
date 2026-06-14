@@ -59,7 +59,6 @@ CLAUDE.md
 docs/
    ai-rules/
      README.md
-     workflow.md
      engineering.md
      typescript.md
      api-contracts.md

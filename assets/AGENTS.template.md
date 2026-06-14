@@ -21,7 +21,6 @@
 
 ## 按需阅读
 
-- 开始任何任务：`docs/ai-rules/workflow.md`
 - 工程化配置、脚本、依赖、CI：`docs/ai-rules/engineering.md`
 - TypeScript 类型、模块、错误处理：`docs/ai-rules/typescript.md`
 - 接口开发、联调、请求封装、字段变更：`docs/ai-rules/api-contracts.md`

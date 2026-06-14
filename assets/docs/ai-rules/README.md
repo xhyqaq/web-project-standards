@@ -4,7 +4,6 @@
 
 ## 文档路由
 
-- `workflow.md`：AI Agent 工作方式和完成标准。
 - `engineering.md`：包管理、脚本、TypeScript、ESLint、Prettier、CI。
 - `typescript.md`：TypeScript 类型、模块、异步和错误处理。
 - `api-contracts.md`：前后端共享 contract、Zod schema、请求封装、接口返回。

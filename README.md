@@ -43,7 +43,6 @@ CLAUDE.md
 docs/
   ai-rules/
     README.md
-    workflow.md
     engineering.md
     typescript.md
     api-contracts.md
@@ -58,7 +57,6 @@ docs/
 
 ## 规则文件
 
-- `workflow.md`：AI Agent 工作方式、上下文阅读、完成标准。
 - `engineering.md`：包管理、脚本、TypeScript、ESLint、Prettier、CI。
 - `typescript.md`：类型、模块、异步和错误处理。
 - `api-contracts.md`：前后端共享 contract、Zod schema、请求封装、接口返回。
